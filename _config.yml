@@ -1,0 +1,14 @@
+layout_spectrum: 0.8121516229584813
+typography_spectrum: 0.17639307398349047
+color:
+  brandStrength: 0.5640179037582129
+  lightness: 0.1600168258883059
+  saturation: 0.02120175026357174
+  rhythmicContrast: 0.18010203097946942
+  brandColors:
+    - '#FFFFFF'
+    - '#BABEBD'
+    - '#6F7372'
+    - '#EC5100'
+    - '#34A8C1'
+name: Studio Create
