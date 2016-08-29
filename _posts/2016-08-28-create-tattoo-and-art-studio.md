@@ -23,16 +23,14 @@ description: >-
   consultation, for that tattoo you've always dreamed about. (315)447-6754
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.syracusetattoo.com/'
 title: CREATE Tattoo and Art Studio
-datePublished: '2016-08-28T00:34:38.203Z'
-dateModified: '2016-08-28T00:34:16.717Z'
+datePublished: '2016-08-28T00:35:36.667Z'
+dateModified: '2016-08-28T00:35:36.276Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-create-tattoo-and-art-studio.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: create-tattoo-and-art-studio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
