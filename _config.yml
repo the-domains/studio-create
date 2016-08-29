@@ -16,5 +16,8 @@ navigation:
   - name: CREATE Tattoo and Art Studio
     id: 89b83a41-70fd-4af2-8343-b70d04528616
     type: content
+  - name: Matt's website
+    url: thetattoorobot.com
+    type: external
 title: CREATE
 description: Tattoo & Art Studio
