@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.8121516229584813
 name: Studio Create
+navigation:
+  - name: CREATE Tattoo and Art Studio
+    id: 89b83a41-70fd-4af2-8343-b70d04528616
+    type: content
 title: CREATE
 description: Tattoo & Art Studio
